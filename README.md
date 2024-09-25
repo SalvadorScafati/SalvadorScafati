@@ -29,14 +29,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvadorScafati&layout=compact&theme=radical)
 
  
-
- 
-
-## 💬 Let's Connect:
-
-<p align="left">
-  <a href="https://[www.linkedin.com/in//](https://www.linkedin.com/in/salvador-scafati-0462b41b5/)"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="mailto:salvadorscafati@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
---- 
