@@ -28,5 +28,5 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalvadorScafati&layout=compact&theme=synthwave)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SalvadorScafati&repo=Leetcode)](https://github.com/SalvadorScafati/Leetcode)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SalvadorScafati&repo=Leetcode&theme=synthwave)](https://github.com/SalvadorScafati/Leetcode)
  
