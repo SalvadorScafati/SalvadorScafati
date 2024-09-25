@@ -24,8 +24,10 @@
 
 ## 📊 GitHub Stats:
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SalvadorScafati&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SalvadorScafati&layout=compac&theme=synthwave)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvadorScafati&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalvadorScafati&layout=compact&theme=synthwave)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SalvadorScafati&repo=Leetcode)](https://github.com/SalvadorScafati/Leetcode)
+ 
  
