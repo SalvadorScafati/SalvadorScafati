@@ -28,16 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvadorScafati&layout=compact&theme=radical)
 
----
-
-## 🏆 Achievements:
-
-- 🔥 **Longest Streak**: 30+ days of consistent contributions
-- 🌟 **Top Repositories**:
-    - [Project 1](https://github.com/your-github-username/project1) - Description of your project.
-    - [Project 2](https://github.com/your-github-username/project2) - Description of your project.
-
----
+ 
 
  
 
